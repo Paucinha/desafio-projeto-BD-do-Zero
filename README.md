@@ -6,7 +6,7 @@ Neste desafio, você irá utilizar seu esquema conceitual, criado no desafio do 
 
 **SQL | Full-Stack | Avançado**
 
-![sql](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg)
+![sql]([https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css))
 
 <div style="display: inline_block"><br>
   <img align="center" alt="sql" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
